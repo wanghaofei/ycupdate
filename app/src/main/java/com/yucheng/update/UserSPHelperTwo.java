@@ -2,8 +2,7 @@ package com.yucheng.update;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-
-import androidx.core.content.SharedPreferencesCompat;
+import android.support.v4.content.SharedPreferencesCompat;
 
 import java.util.Map;
 
